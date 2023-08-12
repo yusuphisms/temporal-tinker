@@ -1,0 +1,7 @@
+interceptor/MyWorker.class
+interceptor/MyActivityImpl.class
+interceptor/MyWorkflowImpl.class
+interceptor/MyActivity.class
+interceptor/MyWorkflow.class
+interceptor/Shared.class
+interceptor/MyWorkflowExecution.class
